@@ -7,4 +7,5 @@ class Student:
         pass
 
     def average(self) -> float:
-        pass
+        return sum(self.grades) / len(self.grades)
+

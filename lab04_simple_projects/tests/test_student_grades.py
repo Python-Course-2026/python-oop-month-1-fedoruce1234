@@ -1,3 +1,4 @@
+
 from lab04_simple_projects.tasks.student_grades import Student
 
 def test_student_grades():

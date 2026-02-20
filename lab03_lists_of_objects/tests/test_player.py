@@ -1,3 +1,4 @@
+
 from lab03_lists_of_objects.tasks.player import Player
 
 def test_player():

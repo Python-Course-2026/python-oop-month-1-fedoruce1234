@@ -6,3 +6,4 @@ def test_bank_account():
     assert a.balance == 100
     a.withdraw(50)
     assert a.balance == 50
+

@@ -5,4 +5,6 @@ class Timer:
 
     def tick(self):
         """Уменьшает sec на 1, пока > 0"""
-        pass
+        if self.sec > 0:
+            self.sec -= 1
+

@@ -1,3 +1,4 @@
+
 from lab04_simple_projects.tasks.timer import Timer
 
 def test_timer():

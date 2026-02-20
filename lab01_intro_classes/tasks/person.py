@@ -6,4 +6,5 @@ class Person:
 
     def is_adult(self) -> bool:
         """Возвращает True, если возраст 18+, иначе False"""
-        pass
+        return self.age >= 18
+

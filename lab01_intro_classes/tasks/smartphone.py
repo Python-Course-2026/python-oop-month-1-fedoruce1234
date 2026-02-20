@@ -6,4 +6,4 @@ class Smartphone:
 
     def use_app(self, cost: int):
         """Снижает заряд, но не ниже 0"""
-        pass
+        self.battery = max(0, self.battery - cost)

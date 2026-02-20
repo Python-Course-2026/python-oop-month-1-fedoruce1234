@@ -1,3 +1,4 @@
+
 from lab02_methods.tasks.thermometer import Thermometer
 
 def test_thermometer():

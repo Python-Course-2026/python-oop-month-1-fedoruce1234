@@ -5,4 +5,15 @@ class PasswordChecker:
 
     def is_strong(self) -> bool:
         """Длина >= 8 и есть цифра"""
-        pass
+        if len(self.pwd) < 8:
+            return False
+
+
+        has_digit = False
+        for char in self.pwd:
+            if char.isdigit():
+                has_digit = True
+                break
+
+        return has_digit
+
