@@ -1,3 +1,4 @@
+
 class Robot:
     """Задача: robot"""
     def __init__(self):

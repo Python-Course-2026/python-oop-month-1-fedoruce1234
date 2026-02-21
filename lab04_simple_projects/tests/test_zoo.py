@@ -1,4 +1,5 @@
 
+
 from lab04_simple_projects.tasks.zoo import Zoo
 
 def test_zoo():

@@ -1,4 +1,5 @@
 
+
 from lab04_simple_projects.tasks.password_checker import PasswordChecker
 
 def test_password_checker():

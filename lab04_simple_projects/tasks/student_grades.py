@@ -9,3 +9,4 @@ class Student:
     def average(self) -> float:
         self.grades.sort(reverse=True)
         return sum(self.grades) / len(self.grades)
+

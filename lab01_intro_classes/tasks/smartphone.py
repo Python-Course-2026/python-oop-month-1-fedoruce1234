@@ -1,3 +1,4 @@
+
 class Smartphone:
     """Задача: smartphone"""
     def __init__(self, model: str):

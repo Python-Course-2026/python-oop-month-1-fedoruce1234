@@ -1,3 +1,4 @@
+
 from lab01_intro_classes.tasks.person import Person
 
 def test_person():

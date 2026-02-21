@@ -1,3 +1,4 @@
+
 class Circle:
     """Задача: circle"""
     def __init__(self, radius: float):

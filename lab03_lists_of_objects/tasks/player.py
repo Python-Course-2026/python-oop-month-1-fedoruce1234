@@ -6,3 +6,4 @@ class Player:
 
     def add_score(self, points: int):
         self.score += points
+

@@ -1,3 +1,4 @@
+
 class BankAccount:
     """Задача: bank_account"""
     def __init__(self, balance=0):

@@ -1,4 +1,5 @@
 
+
 from lab02_methods.tasks.robot import Robot
 
 def test_robot():

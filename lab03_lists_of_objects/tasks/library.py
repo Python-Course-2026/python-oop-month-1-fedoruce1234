@@ -5,3 +5,4 @@ class Library:
 
     def add_book(self, title: str):
         self.books.append(title)
+

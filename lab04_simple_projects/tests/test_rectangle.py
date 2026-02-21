@@ -1,4 +1,5 @@
 
+
 from lab04_simple_projects.tasks.rectangle import Rectangle
 
 def test_rectangle():

@@ -1,4 +1,5 @@
 
+
 from lab02_methods.tasks.coffee_machine import CoffeeMachine
 
 def test_coffee_machine():

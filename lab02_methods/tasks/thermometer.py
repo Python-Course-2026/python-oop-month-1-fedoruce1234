@@ -1,3 +1,4 @@
+
 class Thermometer:
     """Задача: thermometer"""
     def __init__(self, celsius: float):

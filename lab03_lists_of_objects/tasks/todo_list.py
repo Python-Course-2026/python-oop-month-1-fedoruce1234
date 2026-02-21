@@ -6,3 +6,4 @@ class TodoList:
     def add_task(self, task: str):
         self.tasks.append(task)
 
+

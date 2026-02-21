@@ -1,3 +1,4 @@
+
 class Car:
     """Задача: car"""
     def __init__(self):

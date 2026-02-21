@@ -1,3 +1,4 @@
+
 from lab01_intro_classes.tasks.smartphone import Smartphone
 
 def test_smartphone():

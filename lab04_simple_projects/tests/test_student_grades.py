@@ -1,5 +1,6 @@
 
-from lab04_simple_projects.tasks.student_grades import Student
+from lab04_simple_projects.tasks.
+import Student
 
 def test_student_grades():
     s = Student('A')

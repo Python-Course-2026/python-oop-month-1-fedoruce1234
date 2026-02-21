@@ -1,3 +1,4 @@
+
 class Dog:
     """Задача: dog"""
     def __init__(self, name: str):

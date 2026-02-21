@@ -1,3 +1,4 @@
+
 class CoffeeMachine:
     """Задача: coffee_machine"""
     def __init__(self, water: int, beans: int):
