@@ -7,3 +7,4 @@ def test_robot():
     r.move_forward()
     r.move_right()
     assert (r.x, r.y) == (1, 1)
+

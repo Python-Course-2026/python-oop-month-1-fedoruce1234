@@ -11,3 +11,4 @@ class CoffeeMachine:
             return 'OK'
         else:
             return 'Error'
+

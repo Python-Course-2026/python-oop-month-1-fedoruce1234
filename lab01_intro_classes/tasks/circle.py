@@ -10,3 +10,4 @@ class Circle:
 
         def get_perimeter(self) -> float:
             return 2 * (3.14 * self.radius)
+

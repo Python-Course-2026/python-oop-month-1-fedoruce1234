@@ -10,3 +10,4 @@ class Robot:
     def move_right(self):
         self.x += 1
 
+

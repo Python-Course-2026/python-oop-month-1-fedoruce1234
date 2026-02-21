@@ -11,3 +11,4 @@ class Car:
         """Снижает скорость, но не ниже 0"""
         self.speed = max(0, self.speed - v)
 
+

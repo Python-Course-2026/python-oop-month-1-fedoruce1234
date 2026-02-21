@@ -6,3 +6,4 @@ def test_player():
     p = Player('Ace')
     p.add_score(10)
     assert p.score == 10
+

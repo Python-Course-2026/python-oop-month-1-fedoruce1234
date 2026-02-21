@@ -6,3 +6,4 @@ def test_zoo():
     z = Zoo()
     z.add('Lion')
     assert len(z.animals) == 1
+

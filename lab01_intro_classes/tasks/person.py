@@ -9,3 +9,4 @@ class Person:
         """Возвращает True, если возраст 18+, иначе False"""
         return self.age >= 18
 
+

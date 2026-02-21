@@ -6,3 +6,4 @@ def test_person():
     assert p.is_adult() is True
     assert Person('Kim', 15).is_adult() is False
 
+

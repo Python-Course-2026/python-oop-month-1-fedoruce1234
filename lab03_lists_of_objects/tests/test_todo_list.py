@@ -6,3 +6,4 @@ def test_todo_list():
     l = TodoList()
     l.add_task('Code')
     assert 'Code' in l.tasks
+

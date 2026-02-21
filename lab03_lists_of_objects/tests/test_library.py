@@ -6,3 +6,4 @@ def test_library():
     lib = Library()
     lib.add_book('Python Basics')
     assert len(lib.books) == 1
+

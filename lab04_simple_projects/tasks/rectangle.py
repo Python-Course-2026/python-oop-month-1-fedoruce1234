@@ -6,4 +6,3 @@ class Rectangle:
     def area(self):
         return self.w * self.h
 
-

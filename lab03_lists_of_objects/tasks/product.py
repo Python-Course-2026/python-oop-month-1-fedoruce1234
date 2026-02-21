@@ -7,3 +7,4 @@ class Product:
     def get_total(self, qty: int) -> float:
         return self.price * qty
 
+

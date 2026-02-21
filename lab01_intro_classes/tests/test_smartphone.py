@@ -6,3 +6,4 @@ def test_smartphone():
     s.use_app(120)
     assert s.battery == 0
 
+

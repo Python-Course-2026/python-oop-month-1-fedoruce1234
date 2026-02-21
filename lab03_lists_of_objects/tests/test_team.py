@@ -6,3 +6,4 @@ def test_team():
     t = Team('Devs')
     t.join('Alice')
     assert 'Alice' in t.members
+

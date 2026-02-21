@@ -8,3 +8,4 @@ class Dog:
         """Возвращает строку 'Woof!'"""
         return "Woof!"
 
+

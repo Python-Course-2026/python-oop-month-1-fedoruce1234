@@ -7,3 +7,4 @@ def test_timer():
     t.tick()
     t.tick()
     assert t.sec == 0
+

@@ -1,4 +1,3 @@
-
 from lab01_intro_classes.tasks.circle import Circle
 
 def test_circle():

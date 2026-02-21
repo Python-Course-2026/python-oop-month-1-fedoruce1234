@@ -6,3 +6,4 @@ class Zoo:
     def add(self, animal_name: str):
         self.animals.append(animal_name)
 
+

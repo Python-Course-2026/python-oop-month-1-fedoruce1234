@@ -18,3 +18,4 @@ class PasswordChecker:
         return has_digit
 
 
+
